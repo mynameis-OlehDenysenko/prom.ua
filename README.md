@@ -1,1 +1,1 @@
-# Positive register test at prom.ua
+# Positive sign up test at prom.ua
